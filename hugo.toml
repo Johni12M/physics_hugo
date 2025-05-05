@@ -1,9 +1,11 @@
 baseURL = "/"
 languageCode = "de-at"
 defaultContentLanguage = "de"
-theme = "hello-friend-ng"
-paginate = 5
+theme = "hello-friend"
 enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
 
 [params]
   description = "Ein einfacher, retro-inspirierter Hugo-Blog"
