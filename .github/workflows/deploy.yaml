@@ -37,7 +37,7 @@ jobs:
           fi
 
       - name: Build Hugo site
-        run: hugo
+        run: hugo -t hello-friend
 
       # Upload the built site (public directory) as an artifact
       - name: Upload built site as artifact
