@@ -60,5 +60,5 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with:
-          artifact-name: github-pages  # Reference the uploaded artifact name
+          artifact_name: github-pages  # Reference the uploaded artifact name
 
