@@ -1,4 +1,4 @@
-baseURL = "https://johni12m.github.io/physics_hugo"
+baseURL = "https://github.com/Johni12M/physics_hugo"
 languageCode = "de-at"
 defaultContentLanguage = "de"
 theme = "hello-friend"
@@ -8,6 +8,7 @@ enableRobotsTXT = true
   pagerSize = 10
 
 [params]
+  relativeURLs = true
   description = "Ein einfacher, retro-inspirierter Hugo-Blog"
   author = ""  # Dein Name
   paginate = 5
