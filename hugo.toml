@@ -1,0 +1,58 @@
+baseURL = "/"
+languageCode = "de-at"
+defaultContentLanguage = "de"
+theme = "hello-friend-ng"
+paginate = 5
+enableRobotsTXT = true
+
+[params]
+  description = "Ein einfacher, retro-inspirierter Hugo-Blog"
+  author = ""  # Dein Name
+  paginate = 5
+  enableSharingButtons = false
+  enableThemeToggle = true
+  homeSubtitle = "Willkommen auf meiner Website"
+  disableReadOtherPosts = false
+  dateFormat = "02.01.2006"
+  defaultTheme = "dark"
+  enableEmoji = true
+
+  [params.logo]
+    logoText = "Hallo Freund"
+    logoHomeLink = "/"
+
+  [params.footer]
+    trademark = false
+    rss = true
+    copyright = ""
+    author = ""  # Dein Name
+    topText = []
+
+[menu]
+  [[menu.main]]
+    identifier = "ueber"
+    name = "Über"
+    url = "/about"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projekte"
+    name = "Projekte"
+    url = "/showcase"
+    weight = 2
+
+[languages]
+  [languages.de]
+    languageName = "Deutsch (Österreich)"
+    title = "Hallo Freund NG"
+
+    [languages.de.params]
+      readOtherPosts = "Weitere Beiträge"
+      readMore = "Weiterlesen"
+      newerPosts = "Neuere Beiträge"
+      olderPosts = "Ältere Beiträge"
+      missingContentMessage = "Seite nicht gefunden..."
+      missingBackButtonLabel = "Zurück zur Startseite"
+      minuteReadingTime = "min Lesezeit"
+      words = "Wörter"
+

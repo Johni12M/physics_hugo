@@ -1,0 +1,57 @@
+name: Hugo Deploy with Obsidian Sync
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Sync Obsidian posts into Hugo
+        run: |
+          rsync -av --delete obsidian/posts/ content/posts/
+
+      - name: Run image processing
+        run: |
+          if [ -f images.py ]; then
+            python3 images.py
+          fi
+
+      - name: Build Hugo site
+        run: hugo
+
+      - name: Commit content changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+
+          if ! git diff --quiet || ! git diff --cached --quiet; then
+            git add .
+            git commit -m "Auto update from Obsidian on $(date)"
+            git push
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Deploy to Hostinger (hostinger branch)
+        run: |
+          git subtree split --prefix public -b hostinger-deploy
+          git push -f origin hostinger-deploy:hostinger
+          git branch -D hostinger-deploy
+
