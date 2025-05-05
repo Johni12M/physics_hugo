@@ -23,9 +23,10 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Sync Obsidian posts into Hugo
+
+      - name: Sync Obsidian vault to Hugo content
         run: |
-          rsync -av --delete ../obsidian/posts/ ../content/posts/
+          rsync -av --delete obsidian/posts/ content/posts/
 
       - name: Run image processing
         run: |
