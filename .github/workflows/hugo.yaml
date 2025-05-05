@@ -25,7 +25,7 @@ jobs:
 
       - name: Sync Obsidian posts into Hugo
         run: |
-          rsync -av --delete obsidian/posts/ content/posts/
+          rsync -av --delete ../obsidian/posts/ ../content/posts/
 
       - name: Run image processing
         run: |
@@ -49,9 +49,4 @@ jobs:
             echo "No changes to commit."
           fi
 
-      - name: Deploy to Hostinger (hostinger branch)
-        run: |
-          git subtree split --prefix public -b hostinger-deploy
-          git push -f origin hostinger-deploy:hostinger
-          git branch -D hostinger-deploy
 
