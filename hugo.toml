@@ -1,4 +1,4 @@
-baseURL = "https://github.com/Johni12M/physics_hugo"
+baseURL = "https://github.com/Johni12M"
 languageCode = "de-at"
 defaultContentLanguage = "de"
 theme = "hello-friend"
