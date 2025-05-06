@@ -27,8 +27,8 @@ enableRobotsTXT = true
   [params.footer]
     trademark = false
     rss = true
-    copyright = ""
-    author = ""  # Dein Name
+    copyright = "Jonathan Metz"
+    author = "Jonathan Metz"  # Dein Name
     topText = []
 
 [menu]
