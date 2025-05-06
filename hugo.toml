@@ -9,6 +9,7 @@ enableRobotsTXT = true
 
 [params]
   relativeURLs = true
+  canonifyURLs = true
   description = "Ein einfaches, Hugo-Physic-Skript"
   author = ""  # Dein Name
   paginate = 5
