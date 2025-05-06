@@ -9,33 +9,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Set up Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 'latest'
-          extended: true
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: Ensure destination directory exists
-        run: mkdir -p content/posts
-
-      - name: Sync Obsidian vault to Hugo content
-        run: |
-          rsync -av --delete obsidian/posts/ content/posts/
-
-      - name: Run image processing
-        run: |
-          if [ -f images.py ]; then
-            python3 images.py
-          fi
-
       - name: Build Hugo site
         run: hugo -t hello-friend
 
