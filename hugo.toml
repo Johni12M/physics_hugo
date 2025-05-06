@@ -4,12 +4,12 @@ defaultContentLanguage = "de"
 theme = "hello-friend"
 enableRobotsTXT = true
 disableKinds = ['home', 'term']
+relativeURLs = false
 
 [pagination]
   pagerSize = 10
 
 [params]
-  relativeURLs = false
   canonifyURLs = true
   description = "Ein einfaches, Hugo-Physic-Skript"
   author = ""  # Dein Name
