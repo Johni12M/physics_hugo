@@ -59,5 +59,8 @@ relativeURLs = false
       minuteReadingTime = "min Lesezeit"
       words = "Wörter"
 
-
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
 
