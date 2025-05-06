@@ -9,7 +9,7 @@ disableKinds = ['home', 'term']
   pagerSize = 10
 
 [params]
-  relativeURLs = true
+  relativeURLs = false
   canonifyURLs = true
   description = "Ein einfaches, Hugo-Physic-Skript"
   author = ""  # Dein Name
