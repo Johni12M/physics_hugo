@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1314/Johni12M/physics_hugo/</loc>
+    <loc>https://github.com/Johni12M/physics_hugo/</loc>
     <lastmod>2025-05-06T15:40:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1314/Johni12M/physics_hugo/posts/</loc>
+    <loc>https://github.com/Johni12M/physics_hugo/posts/</loc>
     <lastmod>2025-05-06T15:40:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1314/Johni12M/physics_hugo/categories/</loc>
+    <loc>https://github.com/Johni12M/physics_hugo/posts/post1/</loc>
+    <lastmod>2025-05-06T15:40:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1314/Johni12M/physics_hugo/tags/</loc>
+    <loc>https://github.com/Johni12M/physics_hugo/categories/</loc>
+  </url><url>
+    <loc>https://github.com/Johni12M/physics_hugo/tags/</loc>
   </url>
 </urlset>
