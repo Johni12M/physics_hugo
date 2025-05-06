@@ -9,7 +9,7 @@ enableRobotsTXT = true
 
 [params]
   relativeURLs = true
-  description = "Ein einfacher, retro-inspirierter Hugo-Blog"
+  description = "Ein einfaches, Hugo-Physic-Skript"
   author = ""  # Dein Name
   paginate = 5
   enableSharingButtons = false
@@ -21,7 +21,7 @@ enableRobotsTXT = true
   enableEmoji = true
 
   [params.logo]
-    logoText = "Hallo Freund"
+    logoText = "Physic Skript"
     logoHomeLink = "/"
 
   [params.footer]
