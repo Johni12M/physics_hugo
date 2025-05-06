@@ -3,6 +3,7 @@ languageCode = "de-at"
 defaultContentLanguage = "de"
 theme = "hello-friend"
 enableRobotsTXT = true
+disableKinds = ['home', 'term']
 
 [pagination]
   pagerSize = 10
@@ -57,4 +58,6 @@ enableRobotsTXT = true
       missingBackButtonLabel = "Zurück zur Startseite"
       minuteReadingTime = "min Lesezeit"
       words = "Wörter"
+
+
 
