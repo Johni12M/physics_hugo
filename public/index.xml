@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hallo Freund NG</title>
-    <link>http://localhost:1313/Johni12M/physics_hugo/</link>
+    <link>http://localhost:1313/Johni12M/</link>
     <description>Recent content on Hallo Freund NG</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 06 May 2025 15:40:30 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/Johni12M/physics_hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 May 2025 19:53:11 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/Johni12M/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post2</title>
+      <link>http://localhost:1313/Johni12M/posts/post2/</link>
+      <pubDate>Tue, 06 May 2025 19:53:11 +0200</pubDate>
+      <guid>http://localhost:1313/Johni12M/posts/post2/</guid>
+      <description>pls2</description>
+    </item>
     <item>
       <title>test</title>
-      <link>http://localhost:1313/Johni12M/physics_hugo/posts/post1/</link>
+      <link>http://localhost:1313/Johni12M/posts/post1/</link>
       <pubDate>Tue, 06 May 2025 15:40:30 +0100</pubDate>
-      <guid>http://localhost:1313/Johni12M/physics_hugo/posts/post1/</guid>
+      <guid>http://localhost:1313/Johni12M/posts/post1/</guid>
       <description>pls</description>
     </item>
   </channel>
