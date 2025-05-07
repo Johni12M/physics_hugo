@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/physics_hugo/sw.js",{scope:"/physics_hugo/"})
