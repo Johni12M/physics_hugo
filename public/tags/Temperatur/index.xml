@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temperatur on Hugo Book</title>
+    <link>http://localhost:1313/physics_hugo/tags/Temperatur/</link>
+    <description>Recent content in Temperatur on Hugo Book</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/physics_hugo/tags/Temperatur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thermodynamik und Aggregatzustände</title>
+      <link>http://localhost:1313/physics_hugo/physik/thermodynamik/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/physics_hugo/physik/thermodynamik/</guid>
+      <description>&lt;h2 id=&#34;atome-als-bausteine-der-materie&#34;&gt;&#xA;  Atome als Bausteine der Materie&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#atome-als-bausteine-der-materie&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Alle Körper bestehen aus Atomen (~120 chemische Elemente)&lt;/li&gt;&#xA;&lt;li&gt;Atomare Masseneinheit: 1u = 1,66 × 10⁻²⁷ kg&lt;/li&gt;&#xA;&lt;li&gt;1 mol = 6,022 × 10²³ Teilchen (Avogadro-Konstante)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;temperatur-und-molekularbewegung&#34;&gt;&#xA;  Temperatur und Molekularbewegung&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#temperatur-und-molekularbewegung&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Temperatur ist ein Maß für die ungeordnete Bewegung der Teilchen&lt;/li&gt;&#xA;&lt;li&gt;Einheit: Kelvin (K)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;aggregatzustände&#34;&gt;&#xA;  Aggregatzustände&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#aggregatzust%c3%a4nde&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Festkörper: Teilchen schwingen um feste Positionen&lt;/li&gt;&#xA;&lt;li&gt;Flüssigkeiten: Teilchen weniger stark gebunden, passen sich an&lt;/li&gt;&#xA;&lt;li&gt;Gase: Große Molekülabstände, füllen jedes Volumen&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;kräfte-zwischen-molekülen&#34;&gt;&#xA;  Kräfte zwischen Molekülen&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#kr%c3%a4fte-zwischen-molek%c3%bclen&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Van-der-Waals-Kräfte, Kohäsion (gleichartige Moleküle), Adhäsion (verschiedenartige Moleküle)&lt;/li&gt;&#xA;&lt;li&gt;Kapillarität: Wassertransport in Pflanzen, Schwämme etc.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;temperatur-und-volumenänderung&#34;&gt;&#xA;  Temperatur und Volumenänderung&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#temperatur-und-volumen%c3%a4nderung&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Temperaturerhöhung führt zu Ausdehnung, Phasenübergängen, Änderung elektrischer/optischer Eigenschaften&lt;/li&gt;&#xA;&lt;li&gt;Thermometer nutzen Volumenänderung zur Temperaturmessung&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

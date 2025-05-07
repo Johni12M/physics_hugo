@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trägheit on Hugo Book</title>
+    <link>http://localhost:1313/physics_hugo/tags/Tr%C3%A4gheit/</link>
+    <description>Recent content in Trägheit on Hugo Book</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/physics_hugo/tags/Tr%C3%A4gheit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Die Kraft</title>
+      <link>http://localhost:1313/physics_hugo/physik/kraft/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/physics_hugo/physik/kraft/</guid>
+      <description>&lt;h2 id=&#34;trägheitsgesetz-1-newtonsches-gesetz&#34;&gt;&#xA;  Trägheitsgesetz (1. Newtonsches Gesetz)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tr%c3%a4gheitsgesetz-1-newtonsches-gesetz&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Ein Körper verharrt in Ruhe oder gleichförmiger geradliniger Bewegung, wenn keine Kraft auf ihn wirkt.&lt;/p&gt;&#xA;&lt;h2 id=&#34;definition-der-kraft&#34;&gt;&#xA;  Definition der Kraft&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#definition-der-kraft&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Formelzeichen: F&lt;/li&gt;&#xA;&lt;li&gt;Einheit: Newton (N)&lt;/li&gt;&#xA;&lt;li&gt;Formel: F = m × a&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Gewichtskraft:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fg = m × g (g = 9,81 m/s²)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;addition-und-zerlegung-von-kräften&#34;&gt;&#xA;  Addition und Zerlegung von Kräften&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#addition-und-zerlegung-von-kr%c3%a4ften&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kräfte werden vektoriell addiert&lt;/li&gt;&#xA;&lt;li&gt;Zerlegung z.B. an der schiefen Ebene in Hangabtriebskraft und Normalkraft&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;wechselwirkungsprinzip-3-newtonsches-gesetz&#34;&gt;&#xA;  Wechselwirkungsprinzip (3. Newtonsches Gesetz)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#wechselwirkungsprinzip-3-newtonsches-gesetz&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;„Actio = Reactio“: Übt Körper A eine Kraft auf Körper B aus, so übt B auf A eine gleich große, entgegengesetzte Kraft aus.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;gravitationskraft&#34;&gt;&#xA;  Gravitationskraft&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#gravitationskraft&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Alle Körper ziehen sich gegenseitig an&lt;/li&gt;&#xA;&lt;li&gt;F = G × (m₁ × m₂) / r²&lt;/li&gt;&#xA;&lt;li&gt;G = 6,67 × 10⁻¹¹ Nm²/kg²&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;reibung&#34;&gt;&#xA;  Reibung&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#reibung&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Gleitreibung: Fr = μg × Fg&lt;/li&gt;&#xA;&lt;li&gt;Haftreibung: Fr = μh × Fg&lt;/li&gt;&#xA;&lt;li&gt;Rollreibung: Fr = μr × Fg&lt;/li&gt;&#xA;&lt;li&gt;Rollreibung &amp;lt; Gleitreibung &amp;lt; Haftreibung&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
