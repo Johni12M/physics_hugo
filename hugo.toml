@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'https://example.com/'
+baseURL = 'https://johni12m.github.io/physics_hugo/'
 title = 'Hugo Book'
 theme = 'hugo-book'
 
@@ -25,17 +25,6 @@ enableGitInfo = true
   languageName = 'English'
   contentDir = 'content.en'
   weight = 1
-
-[languages.zh]
-  languageName = 'Chinese'
-  contentDir = 'content.zh'
-  weight = 2
-
-[languages.he]
-  languageName = 'Hebrew'
-  contentDir = 'content.he'
-  languageDirection = 'rtl'
-  weight = 3
 
 [menu]
 # [[menu.before]]
