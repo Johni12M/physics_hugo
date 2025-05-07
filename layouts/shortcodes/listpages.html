@@ -1,25 +1,28 @@
 {{ $home := .Site.Home }}
 <div class="css-treeview box">
-	<ul>
-		<li><span>Home</span>
-			<ul>
-				{{ template "section-tree-nav" $home }}
-			</ul>
-		</li>
-	</ul>
+  <ul>
+    <li>
+      <a href="{{ $home.RelPermalink }}">Home</a>
+      <ul>
+        {{ template "section-tree-nav" $home }}
+      </ul>
+    </li>
+  </ul>
 </div>
 
 {{ define "section-tree-nav" }}
-{{ range .Sections.Reverse }}
-	<li>
-		<span>{{ .Title }}</span>
-		<ul>
-			{{ range .Pages }}
-				<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-			{{ end }}
-			{{ template "section-tree-nav" . }}
-		</ul>
-	</li>
-{{ end }}
+  {{ range .Sections }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <ul>
+        {{ range .Pages }}
+          {{ if not .IsSection }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        {{ end }}
+        {{ template "section-tree-nav" . }}
+      </ul>
+    </li>
+  {{ end }}
 {{ end }}
 
