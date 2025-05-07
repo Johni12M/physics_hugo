@@ -29,7 +29,7 @@ jobs:
           python-version: '3.x'
 
       - name: Build Hugo site
-        run: hugo -t hello-friend --minify --cleanDestinationDir --destination public
+        run: hugo -t hugo-book --minify --cleanDestinationDir --destination public
 
 
       - name: List contents of public directory
