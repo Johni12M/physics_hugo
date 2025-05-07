@@ -2,80 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/physics_hugo/docs/example/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
+    <loc>http://localhost:1313/physics_hugo/physik/bewegung/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/example/table-of-contents/with-toc/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
+    <loc>http://localhost:1313/physics_hugo/physik/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/example/table-of-contents/without-toc/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
+    <loc>http://localhost:1313/physics_hugo/physik/bewegungsformen/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/example/table-of-contents/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
+    <loc>http://localhost:1313/physics_hugo/physik/druck-auftrieb/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/example/collapsed/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
+    <loc>http://localhost:1313/physics_hugo/physik/energie-arbeit/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/example/collapsed/3rd-level/4th-level/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
+    <loc>http://localhost:1313/physics_hugo/physik/kraft/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/example/collapsed/3rd-level/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/example/hidden/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/shortcodes/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/shortcodes/buttons/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/shortcodes/columns/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/shortcodes/details/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/shortcodes/hints/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/shortcodes/mermaid/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/shortcodes/section/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/shortcodes/section/first-page/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/shortcodes/section/second-page/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/shortcodes/tabs/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/overview/configuration/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/posts/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
+    <loc>http://localhost:1313/physics_hugo/physik/thermodynamik/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/physics_hugo/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
+    <lastmod>2025-05-07T10:16:38+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/physics_hugo/docs/shortcodes/katex/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
+    <loc>http://localhost:1313/physics_hugo/posts/</loc>
+    <lastmod>2025-05-07T10:16:38+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/physics_hugo/overview/</loc>
-    <lastmod>2025-05-07T08:48:32+02:00</lastmod>
+    <loc>http://localhost:1313/physics_hugo/tags/Aggregatzust%C3%A4nde/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Arbeit/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Auftrieb/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Beschleunigung/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Bewegung/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/categories/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Druck/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Einheiten/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Energie/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Energieerhaltung/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Fl%C3%BCssigkeit/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Geschwindigkeit/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Gravitation/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Hydrostatik/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Kepler/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Kraft/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Kreisbewegung/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Leistung/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Molek%C3%BCle/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Newton/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/categories/Physik/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Planeten/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/physics_hugo/tags/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Temperatur/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Thermodynamik/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Tr%C3%A4gheit/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/physics_hugo/tags/Wurf/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planeten on Hugo Book</title>
+    <link>http://localhost:1313/physics_hugo/tags/Planeten/</link>
+    <description>Recent content in Planeten on Hugo Book</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/physics_hugo/tags/Planeten/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spezielle Bewegungsformen</title>
+      <link>http://localhost:1313/physics_hugo/physik/bewegungsformen/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/physics_hugo/physik/bewegungsformen/</guid>
+      <description>&lt;h2 id=&#34;wurfbewegung&#34;&gt;&#xA;  Wurfbewegung&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#wurfbewegung&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Zerlegung der Anfangsgeschwindigkeit in x- und y-Komponente&lt;/li&gt;&#xA;&lt;li&gt;Parabelbahn, Berechnung von Flugzeit, Wurfweite, Maximalhöhe&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;kreisbewegung&#34;&gt;&#xA;  Kreisbewegung&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#kreisbewegung&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kreisbewegungen sind beschleunigt, weil sich die Richtung des Geschwindigkeitsvektors ändert&lt;/li&gt;&#xA;&lt;li&gt;Zentripetalbeschleunigung: a_z = v²/r&lt;/li&gt;&#xA;&lt;li&gt;Zentripetalkraft: F_z = m × a_z&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;kosmische-geschwindigkeiten&#34;&gt;&#xA;  Kosmische Geschwindigkeiten&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#kosmische-geschwindigkeiten&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;kosmische Geschwindigkeit: Umlaufgeschwindigkeit um die Erde&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;kosmische Geschwindigkeit: Fluchtgeschwindigkeit von der Erde&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;kosmische Geschwindigkeit: Fluchtgeschwindigkeit aus dem Sonnensystem&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;keplersche-gesetze&#34;&gt;&#xA;  Keplersche Gesetze&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#keplersche-gesetze&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Planeten bewegen sich auf Ellipsen, Sonne in einem Brennpunkt&lt;/li&gt;&#xA;&lt;li&gt;Radiusvektor überstreicht in gleichen Zeiten gleiche Flächen&lt;/li&gt;&#xA;&lt;li&gt;Quadrate der Umlaufzeiten verhalten sich wie die Kuben der großen Halbachsen&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
