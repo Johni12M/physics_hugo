@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction on Hugo Book</title>
+    <title>Physik Übersicht on Hugo Book</title>
     <link>http://localhost:1313/physics_hugo/</link>
-    <description>Recent content in Introduction on Hugo Book</description>
+    <description>Recent content in Physik Übersicht on Hugo Book</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/physics_hugo/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
