@@ -12,7 +12,7 @@
       <link>http://localhost:1313/physics_hugo/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/physics_hugo/posts/test/</guid>
-      <description>\[a^*=x-b^*\]\[ a^*=x-b^* \]</description>
+      <description>\[a^*=x-b^*\]\[ a^*=x-b^* \]&lt;p&gt;&#xA;\( \frac{a + b}{c} \)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

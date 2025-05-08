@@ -6,14 +6,14 @@
     <description>Recent content in Posts on Hugo Book</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 15:33:19 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/physics_hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
       <link>http://localhost:1313/physics_hugo/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/physics_hugo/posts/test/</guid>
-      <description>\[a^*=x-b^*\]\[ a^*=x-b^* \]</description>
+      <description>\[a^*=x-b^*\]\[ a^*=x-b^* \]&lt;p&gt;&#xA;\( \frac{a + b}{c} \)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
