@@ -1,1 +1,19 @@
-{{ define "dummy" }}{{ end }}
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ $allPages := where .Site.RegularPages "Lang" "de" }}
+<ul>
+  {{ range $allPages.ByDate.Reverse }}
+    <li style="margin-bottom: 1.5em;">
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <small>
+        {{ .Date.Format "2006-01-02" }} |
+        {{ .ReadingTime }} min Lesezeit |
+        {{ .WordCount }} Wörter
+      </small>
+      <p>{{ .Summary }}</p>
+    </li>
+  {{ end }}
+</ul>
+{{ end }}
+

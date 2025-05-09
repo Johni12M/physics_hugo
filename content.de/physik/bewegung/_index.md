@@ -9,45 +9,45 @@ weight: 1
 ## Einheiten für Strecke und Zeit
 
 - **Zeit:**
-  - Formelzeichen: t
-  - Einheit: Sekunde (s)
+  - Formelzeichen: \( t \)
+  - Einheit: Sekunde (\( \mathrm{s} \))
   - Definition: Schwingungen eines Cäsiumatoms
 
 - **Länge:**
-  - Formelzeichen: s, L, h
-  - Einheit: Meter (m)
-  - Definition: Strecke, die Licht im Vakuum in 1/299792458 Sekunden zurücklegt
+  - Formelzeichen: \( s, L, h \)
+  - Einheit: Meter (\( \mathrm{m} \))
+  - Definition: Strecke, die Licht im Vakuum in \( \frac{1}{299792458} \) Sekunden zurücklegt
 
 ## Messen physikalischer Größen
 
-- Physikalische Größe = Maßzahl × Einheit (z.B. 125 kg)
+- Physikalische Größe = Maßzahl × Einheit (z.B. \( 125\,\mathrm{kg} \))
 - Messung erfolgt mit Maßeinheit und Messgerät
 
 ## Vorsilben für Einheiten
 
-- Tera (T): 10¹²
-- Giga (G): 10⁹
-- Mega (M): 10⁶
-- Kilo (k): 10³
-- Milli (m): 10⁻³
-- Mikro (μ): 10⁻⁶
-- Nano (n): 10⁻⁹
+- Tera (T): \( 10^{12} \)
+- Giga (G): \( 10^{9} \)
+- Mega (M): \( 10^{6} \)
+- Kilo (k): \( 10^{3} \)
+- Milli (m): \( 10^{-3} \)
+- Mikro (\( \mu \)): \( 10^{-6} \)
+- Nano (n): \( 10^{-9} \)
 
 **Beispiele:**  
-- S = 8 km = 8000 m
-- Atomdurchmesser: d = 0,1 nm
-- Entfernung Erde-Mond: d = 3,3 × 10⁸ m
+- \( S = 8\,\mathrm{km} = 8000\,\mathrm{m} \)  
+- Atomdurchmesser: \( d = 0{,}1\,\mathrm{nm} \)  
+- Entfernung Erde–Mond: \( d = 3{,}3 \times 10^8\,\mathrm{m} \)
 
 ## Geschwindigkeit und Beschleunigung
 
-- Geschwindigkeit \( v = \frac{Δs}{Δt} \) (Einheit: m/s)
-- Beschleunigung \( a = \frac{Δv}{Δt} \) (Einheit: m/s²)
+- Geschwindigkeit: \( v = \frac{\Delta s}{\Delta t} \) (Einheit: \( \mathrm{m/s} \))  
+- Beschleunigung: \( a = \frac{\Delta v}{\Delta t} \) (Einheit: \( \mathrm{m/s^2} \))
 
-**Beispiel Marathon:**
-- Strecke: 42,195 km
-- Zeit: 2h 1min 39s
-- Geschwindigkeit: v ≈ 5,88 m/s
+**Beispiel Marathon:**  
+- Strecke: \( 42{,}195\,\mathrm{km} \)  
+- Zeit: \( 2\,\mathrm{h}\ 1\,\mathrm{min}\ 39\,\mathrm{s} \)  
+- Geschwindigkeit: \( v \approx 5{,}88\,\mathrm{m/s} \)
 
-**Beispiel Fallturm:**
-- Fallbeschleunigung: g = 9,81 m/s²
+**Beispiel Fallturm:**  
+- Fallbeschleunigung: \( g = 9{,}81\,\mathrm{m/s^2} \)
 
