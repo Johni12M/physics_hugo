@@ -1,0 +1,23 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ $sections := .Site.Sections }}
+{{ range $section := $sections }}
+  <h2>{{ $section.Title }}</h2>
+  <ul>
+    {{ range $page := $section.Pages.ByDate.Reverse }}
+      <li style="margin-bottom: 1em;">
+        <h3><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></h3>
+        <small>
+          {{ $page.Date.Format "2006-01-02" }} |
+          {{ $page.ReadingTime }} min Lesezeit |
+          {{ $page.WordCount }} Wörter
+        </small>
+        <p>{{ $page.Summary }}</p>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
+
+{{ end }}
+
